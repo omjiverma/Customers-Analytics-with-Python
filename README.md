@@ -1,5 +1,6 @@
 # Customers-Analytics-with-Python
 Customer Segmentation and Purchase Analysis
+## Description
 
 ## Customer Segmentation with PCA
 <img src = 'img/img-1.png'>
