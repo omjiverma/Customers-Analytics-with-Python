@@ -1,6 +1,11 @@
 # Customers-Analytics-with-Python
 Customer Segmentation and Purchase Analysis
-## Description
+## Objective
+ 1. Customer Segmentation into possible numbers of groups.
+ 2. Purchase and Revenue Analysis
+ 3. Determining Price Elasticity and Purchase Probability
+ 4. Determining Price Elasticity with Promotion
+ 5. Determining Price Elasticity of Brand
 
 ## Customer Segmentation with PCA
 <img src = 'img/img-1.png'>
